@@ -328,6 +328,7 @@ dependencies = [
  "rodio",
  "serde",
  "serde_json",
+ "tempfile",
  "thiserror",
  "tokio",
 ]
